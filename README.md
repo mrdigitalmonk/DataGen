@@ -45,7 +45,7 @@
 ## ⚙️ Installation
 
 ```bash
-git clone [https://github.com/mrdigitalmonk/DataGen](https://github.com/mrdigitalmonk/DataGen)
+git clone https://github.com/mrdigitalmonk/DataGen
 cd DataGen
 pip install -r requirements.txt
 python3 datagen.py
